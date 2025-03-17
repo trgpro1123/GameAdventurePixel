@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f8730e05b80a574b99ba335344ab4ac, type: 3}
+  m_Name: UpdateWeapon
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "B\u1EA1n mu\u1ED1n n\xE2ng c\u1EA5p g\xEC?."
+  response:
+  - responeseText: "Ki\u1EBFm"
+    dialogue: {fileID: 0}
+    button: {fileID: 9029914935828709617, guid: 8185ca856dfb34b48bfc46a85dbdf0a8, type: 3}
+  - responeseText: Cung
+    dialogue: {fileID: 0}
+    button: {fileID: 9029914935828709617, guid: d1e1fe07ec69bdc459c933b73a6533db, type: 3}
+  - responeseText: "Quy\u1EC1n tr\u01B0\u1EE3ng"
+    dialogue: {fileID: 0}
+    button: {fileID: 9029914935828709617, guid: e0180be4b03bd9f439345810d642fc99, type: 3}
+  - responeseText: "Quay l\u1EA1i"
+    dialogue: {fileID: 11400000, guid: 3cfcd87e63faf5b4aac2434a6adfa3d6, type: 2}
+    button: {fileID: 9029914935828709617, guid: 91a66ad774db3684d863ee05af3cd04a, type: 3}

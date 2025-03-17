@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f8730e05b80a574b99ba335344ab4ac, type: 3}
+  m_Name: HowToUse
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "\u0110u\u1ED1c l\xE0 v\u1EADt ph\u1EA9m r\u1EA5t c\u1EA7n thi\u1EBFt cho b\u1EA1n."
+  - "N\xF3 c\xF3 gi\xE1 2 v\xE0ng."
+  - "N\xF3 s\u1EBD s\xE1ng 30 gi\xE2y xung quanh b\u1EA1n."
+  - "Mu\u1ED1n s\u1EED d\u1EE5ng b\u1EA1n b\u1EA5m ph\xEDm Q tr\xEAn b\xE0n ph\xEDm."
+  - "N\xE0y. N\xF3i nh\u1ECF nh\xE9 \u1EDF trong m\xEA cung t\xF4i nghe n\xF3i c\xF3
+    1 th\u1EE9 b\xED \u1EA9n t\u1EEB th\u1EDDi c\u1ED5 \u0111\u1EA1i."
+  - "\u0110\u1EBFn cho \u0111\u1EBFn b\xE2y gi\u1EDD ch\u01B0a ai t\xECm \u0111\u01B0\u1EE3c,
+    t\xF4i \u0111\xE3 d\xE0nh h\u01A1n 5 n\u0103m m\xE0 v\u1EABn kh\xF4ng t\xECm
+    th\u1EA5y g\xEC c\u1EA3."
+  - "B\u1EA1n c\xF3 mu\u1ED1n th\u1EED th\xE1ch b\u1EA3n th\xE2n kh\xF4ng kh\xF4ng?"
+  response:
+  - responeseText: Back
+    dialogue: {fileID: 11400000, guid: 3cfcd87e63faf5b4aac2434a6adfa3d6, type: 2}
+    button: {fileID: 9029914935828709617, guid: 91a66ad774db3684d863ee05af3cd04a, type: 3}

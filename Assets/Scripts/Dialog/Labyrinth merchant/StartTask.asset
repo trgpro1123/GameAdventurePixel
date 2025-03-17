@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f8730e05b80a574b99ba335344ab4ac, type: 3}
+  m_Name: StartTask
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Xin ch\xE0o m\u1EA1o hi\u1EC3m gi\u1EA3 gan d\u1EA1 \u0111\u1EBFn v\u1EDBi n\u01A1i
+    t\u1ED1i t\u0103m nh\u1EA5t c\u1EE7a khu r\u1EEBng."
+  - "T\xF4i l\xE0 Labyrinth Merchant."
+  - "T\xF4i c\xF3 th\u1EE9 h\u1EEFu \xEDch cho b\u1EA1n \u0111\xE2y."
+  - "B\u1EA1n c\xF3 h\u1EE9ng th\xFA mu\u1ED1n xem qua kh\xF4ng?."
+  response:
+  - responeseText: "C\xF3"
+    dialogue: {fileID: 11400000, guid: 3cfcd87e63faf5b4aac2434a6adfa3d6, type: 2}
+    button: {fileID: 9029914935828709617, guid: d589643fba19546418357336541d5128, type: 3}
+  - responeseText: "Kh\xF4ng"
+    dialogue: {fileID: 11400000, guid: dc58712f067c05145805383dd7365fec, type: 2}
+    button: {fileID: 9029914935828709617, guid: 6f1dce8c40f753a469a0f811cc2e4263, type: 3}

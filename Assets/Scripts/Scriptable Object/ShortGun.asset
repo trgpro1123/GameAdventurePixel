@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e88808a52af8914ba4dfcf1ee83443d, type: 3}
+  m_Name: ShortGun
+  m_EditorClassIdentifier: 
+  weaponPrefab: {fileID: 52443726716474410, guid: c15f13265ef577f4dba73b5b53a59944, type: 3}
+  weaponCooldown: 2
+  weaponDamege: 1
+  weaponAfterUpdateDamege: 1
+  weaponRange: 10
+  isUpdate: 0
