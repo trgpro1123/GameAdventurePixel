@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f8730e05b80a574b99ba335344ab4ac, type: 3}
+  m_Name: FinishTask
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Ch\xFAc m\u1EEBng m\u1EA1o hi\u1EC3m gi\u1EA3 d\u0169ng c\u1EA3m \u0111\xE3
+    ti\xEAu di\u1EC7t \u0111\u01B0\u1EE3c si\xEAu qu\xE1i v\u1EADt. Nh\u1EDD b\u1EA1n
+    khu r\u1EEBng n\xE0y \u0111\xE3 tr\u1EDF l\u1EA1i y\xEAn b\xECnh."
+  - "T\xF4i v\xF4 c\xF9ng bi\u1EBFt \u01A1n b\u1EA1n v\xEC \u0111\xE3 c\u1EE9u gi\xFAp
+    khu r\u1EEBng n\xE0y."
+  response: []
